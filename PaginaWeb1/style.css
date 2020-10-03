@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    min-height: 100px;
+}
+
+.carousel-caption {
+    color: #4e89ae;
+}
+
+
