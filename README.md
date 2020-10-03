@@ -1,2 +1,2 @@
-# Taller2-Programaci-n-Gr-fica
+# Taller2-Programacion-Grafica
 Paginas con Boostrap
